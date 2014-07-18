@@ -1,0 +1,6 @@
+method GetString takes int returns string
+
+	/// Pseuocode example 
+	/// if ????? then ToString XXXXXX
+	/// 
+	/// throw ????
